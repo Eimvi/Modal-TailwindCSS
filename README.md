@@ -1,7 +1,11 @@
 "# Modal-TailwindCSS" 
 
-Pequeño ejercicio de práctica para un modal Responsive con TailwindCSS 3.
+## Pequeño ejercicio de práctica para un modal Responsive con TailwindCSS 3.
 
-![image](https://user-images.githubusercontent.com/81714676/150455895-69f7c943-494f-4ee2-b9a6-7ccc6fc2ca6d.png)
+### Desktop
+![modal](https://user-images.githubusercontent.com/81714676/150458092-0c5cd159-05bb-4257-86d1-dbcd3bee7ddd.gif)
+
+### Mobile
+![modal_mobile](https://user-images.githubusercontent.com/81714676/150458423-56860269-d6e3-48cc-ac67-bd35ce5200f3.gif)
 
 
